@@ -1,8 +1,7 @@
-# LOGINDCD
-Aplikasi dengan fitur login
+# Aplikasi-Login
+Sebuah aplikasi dengan fitur login.
 
-Alur fitur login
-1. Memasukkkan Email
-2. memvalidasi masukan
-3. Menampilkan halaman home
-
+Alur Fitur Login:
+1. Memasukkan email dan password
+2. Memvalidasi masukan.
+3. Menampilkan halaman home.
